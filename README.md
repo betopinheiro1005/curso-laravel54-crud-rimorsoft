@@ -1,9 +1,13 @@
 # CRUD Laravel 5.4
 ## Rimorsoft Online (Italo Morales)
 
-### [Videos do curso](https://www.youtube.com/watch?v=AiEhC2AluJ4&list=PLhCiuvlix-rTH5idwru7vKkPAmVODYJJB)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Videos do curso](https://www.youtube.com/watch?v=AiEhC2AluJ4&list=PLhCiuvlix-rTH5idwru7vKkPAmVODYJJB)  
 
 Aula 1 - Introdução  
 Aula 2 - Migrate,Seeder,Factory,Model,Controller  
